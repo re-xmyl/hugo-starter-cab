@@ -1,0 +1,12 @@
+[package]
+name = "re-xmyl/hugo-starter-cab"
+version = "0.2.1"
+description = "Wasmer Hugo starter package"
+readme = "README.md"
+repository = "https://github.com/re-xmyl/hugo-starter-cab"
+
+[dependencies]
+"wasmer/static-web-server" = "^1"
+
+[fs]
+public = "public"

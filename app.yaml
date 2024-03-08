@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: re-xmyl-hugo-starter-cab
+package: re-xmyl/hugo-starter-cab
